@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 - 🎓 Computer Engineer with a strong foundation in **Java, Spring Boot, MERN stack**  
 - 🌱 Currently exploring **Spring Boot**  
-- 👯 Open to collaborate on **Full Stack, WordPress**  
+- 👯 Open to collaborate on **Full Stack**  
 - ✨ Love solving problems and building projects that create impact  
 - 📫 Reach me at: **manojdekhane3@gmail.com**  
 
