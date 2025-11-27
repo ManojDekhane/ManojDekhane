@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDekhane&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDekhane&layout=compact&theme=radical&cache_seconds=1)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ManojDekhane&theme=radical)  
 
 ---
