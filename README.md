@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌟 About Me
-- 🎓 Computer Engineer with a strong foundation in **Java, Spring Boot, MERN stack**  
-- 🌱 Currently exploring **Spring Boot**  
+- 🎓 Computer Engineer with a strong foundation in **Java, MERN stack**   
 - 👯 Open to collaborate on **Full Stack**  
 - ✨ Love solving problems and building projects that create impact  
 - 📫 Reach me at: **manojdekhane3@gmail.com**  
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 
 #### 👨‍💻 Programming & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
